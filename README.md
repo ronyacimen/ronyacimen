@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ronyacimen
-- 🌱 I’m currently a freshman CS student in Bilkent University ...
+- 🌱 I’m currently a CS student in Bilkent University ...
 - 📫 How to reach me .cimenronya@gmail.com..
 
 <!---
