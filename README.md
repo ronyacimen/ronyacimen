@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronyacimen
 - 🌱 I’m currently a CS student in Bilkent University ...
-- 📫 How to reach me .cimenronya@gmail.com..
+- 📫 How to reach me ronya.cimen@ug.bilkent.edu.tr
 
 <!---
 ronyacimen/ronyacimen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
